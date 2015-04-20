@@ -14,8 +14,14 @@ For MinGW try QT command prompt.
 
 Clone repository, then type:
 
+qmake
+
 make debug
 
 After buit change directory to Debug and run program "GraphAlg" from QT Command Prompt.
+
+The "Tree layout" won't work on Windows.
+
+Example input files: https://dl.dropboxusercontent.com/u/67722658/Github/GraphAlg/GraphAlgInput.zip
 
 More info soon :)
